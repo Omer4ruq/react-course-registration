@@ -1,0 +1,74 @@
+[
+  {
+    "image": "/src/assets/images/Rectangle 2-2.png",
+    "course_name": "Introduction to C Programming",
+    "course_credit": "1",
+    "course_id": "1",
+    "price": "$99.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2-3.png",
+    "course_name": "Introduction to Algorithms",
+    "course_credit": "2",
+    "course_id": "2",
+    "price": "$149.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2-4.png",
+    "course_name": "Introduction to C++ for DSA",
+    "course_credit": "10",
+    "course_id": "3",
+    "price": "$79.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 3.png",
+    "course_name": "Basic Data Structures",
+    "course_credit": "5",
+    "course_id": "4",
+    "price": "$69.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2.png",
+    "course_name": "Introduction to OOP Python",
+    "course_credit": "5",
+    "course_id": "5",
+    "price": "$119.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2-5.png",
+    "course_name": "Software Engineering",
+    "course_credit": "2",
+    "course_id": "6",
+    "price": "$89.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 3-1.png",
+    "course_name": "AWS, Cloud Computing",
+    "course_credit": "5",
+    "course_id": "7",
+    "price": "$129.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2-1.png",
+    "course_name": "Database (MySQL)",
+    "course_credit": "5",
+    "course_id": "8",
+    "price": "$159.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  },
+  {
+    "image": "/src/assets/images/Rectangle 2-6.png",
+    "course_name": "Problem-Solving Part",
+    "course_credit": "2",
+    "course_id": "9",
+    "price": "$79.99",
+    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  }
+]
