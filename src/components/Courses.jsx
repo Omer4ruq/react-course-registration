@@ -12,8 +12,8 @@ const Courses = () => {
     <div className="flex flex-wrap gap-3 ">
       {courseList.map((course) => (
         <div key={course.id} className=" ">
-          <div className="w-72 bg-base-100 shadow-xl mt-6 ">
-            <div className="px-3 ">
+          <div className="w-72 bg-base-100 shadow-xl mt-6 rounded-xl">
+            <div className="px-3 pt-4 ">
               <img className="pt-4" src={course.image} alt="" />
               <h1 className="pt-4 font-semibold text-lg">
                 {course.course_name}
