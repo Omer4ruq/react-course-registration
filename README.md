@@ -10,9 +10,11 @@ Currently, two official plugins are available:
 quetions
 1.Add at least 3 Project features
 
+three project features are given below
+
 - In this project we can select courses.
 - a course can't be select mulitple times.
-- The will be a limit in course credit. user can't select any course when course limit reach it's given limit.
+- There will be a limit in course credit. user can't select any course when course limit reach it's given limit.
 
 2. Discuss how you managed the state in your assignment project.
    I decleard a state hook whenever i needed to store some data and send them in another component. have managed my state by using it sepertly and given diffret name based on the data i was trying to store from my API.
