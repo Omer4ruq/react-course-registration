@@ -20,7 +20,7 @@ const Courses = () => {
       return Swal.fire({
         icon: "error",
         title: "Oops...",
-        text: "This course is already lised",
+        text: "This course is already listed",
       });
     } else {
       selectedCourse.forEach((item) => {
