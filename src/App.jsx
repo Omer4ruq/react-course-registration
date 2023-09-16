@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 
 import "./App.css";
 import Courses from "./components/Courses";
-import Enrollments from "./components/Enrollments";
 
 function App() {
   return (
@@ -12,15 +11,16 @@ function App() {
           Course Registration
         </h1>
       </div>
+      <Courses />
 
-      <div className="md: flex justify-between">
+      {/* <div className="md: flex justify-between">
         <div className="w-2/3 ">
           <Courses></Courses>
         </div>
         <div className="w-1/3">
           <Enrollments></Enrollments>
         </div>
-      </div>
+      </div> */}
     </>
   );
 }
