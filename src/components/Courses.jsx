@@ -40,7 +40,7 @@ const Courses = () => {
   };
 
   useEffect(() => {
-    fetch("../public/db.json")
+    fetch("/db.json")
       .then((res) => res.json())
       .then((data) => setCourseList(data));
   }, []);

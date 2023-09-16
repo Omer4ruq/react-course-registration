@@ -1,6 +1,6 @@
 [
   {
-    "image": "/src/assets/images/Rectangle 2-2.png",
+    "image": "https://i.ibb.co/hZ7q2nD/Rectangle-2-2.png",
     "course_name": "Introduction to C Programming",
     "course_credit": 1,
     "course_id": "1",
@@ -8,7 +8,7 @@
     "course_details": "Get started with the fundamentals of C programming. This course is designed for beginners who want to learn the basics of programming and gain a strong foundation in the C language."
   },
   {
-    "image": "/src/assets/images/Rectangle 2-3.png",
+    "image": "https://i.ibb.co/8c8mDqT/Rectangle-2-3.png",
     "course_name": "Introduction to Algorithms",
     "course_credit": 2,
     "course_id": "2",
@@ -16,7 +16,7 @@
     "course_details": "Get started with the fundamentals of Algorithm. This course is designed for beginners who want to learn the basics of Algorithm and gain a strong foundation in the Algorithm."
   },
   {
-    "image": "/src/assets/images/Rectangle 2-4.png",
+    "image": "https://i.ibb.co/Cv0DY7S/Rectangle-2-4.png",
     "course_name": "Introduction to C++ for DSA",
     "course_credit": 10,
     "course_id": "3",
@@ -24,7 +24,7 @@
     "course_details": "Get started with the fundamentals of C++ programming. This course is designed for beginners who want to learn the basics of programming and gain a strong foundation in the C++ language."
   },
   {
-    "image": "/src/assets/images/Rectangle 3.png",
+    "image": "https://i.ibb.co/ch6THLt/Rectangle-3.png",
     "course_name": "Basic Data Structures",
     "course_credit": 5,
     "course_id": "4",
@@ -32,7 +32,7 @@
     "course_details": "Get started with the fundamentals of Data Structures. This course is designed for beginners who want to learn the basics of Data Structures and gain a strong foundation in the basic Data Structures."
   },
   {
-    "image": "/src/assets/images/Rectangle 2.png",
+    "image": "https://i.ibb.co/1Q40p3H/Rectangle-2.png",
     "course_name": "Introduction to OOP Python",
     "course_credit": 5,
     "course_id": "5",
@@ -40,7 +40,7 @@
     "course_details": "Get started with the fundamentals of OOP in Python. This course is designed for beginners who want to learn OOP and gain a strong foundation in the basic Python."
   },
   {
-    "image": "/src/assets/images/Rectangle 2-5.png",
+    "image": "https://i.ibb.co/K5cXBSQ/Rectangle-2-5.png",
     "course_name": "Software Engineering",
     "course_credit": 2,
     "course_id": 6,
@@ -48,7 +48,7 @@
     "course_details": "Get started with the fundamentals of Software Engineering. This course is designed for beginners who want to learn the basics of Software Engineering and gain a strong foundation in the field"
   },
   {
-    "image": "/src/assets/images/Rectangle 3-1.png",
+    "image": "https://i.ibb.co/6btYrM4/Rectangle-3-1.png",
     "course_name": "AWS, Cloud Computing",
     "course_credit": 5,
     "course_id": "7",
@@ -56,7 +56,7 @@
     "course_details": "Get started with the fundamentals of AWS. This course is designed for beginners who want to learn the basics of Cloud Computing and gain a strong foundation in the basic AWS"
   },
   {
-    "image": "/src/assets/images/Rectangle 2-1.png",
+    "image": "https://i.ibb.co/CQFvg1s/Rectangle-2-1.png",
     "course_name": "Database (MySQL)",
     "course_credit": 5,
     "course_id": "8",
@@ -64,7 +64,7 @@
     "course_details": "Get started with the fundamentals of Database. This course is designed for beginners who want to learn the basics of Database and gain a strong foundation in the basic Database."
   },
   {
-    "image": "/src/assets/images/Rectangle 2-6.png",
+    "image": "https://i.ibb.co/ctQgcJF/Rectangle-2-6.png",
     "course_name": "Problem-Solving Part",
     "course_credit": 2,
     "course_id": "9",
