@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { FaDollarSign, FaBookOpen } from "react-icons/fa";
 import Enrollments from "./Enrollments";
+import Swal from "sweetalert2";
 
 const Courses = () => {
   const [courseList, setCourseList] = useState([]);
@@ -16,7 +17,11 @@ const Courses = () => {
     let credit = course.course_credit;
     let price = course.price;
     if (isExist) {
-      return alert("already added");
+      return Swal.fire({
+        icon: "error",
+        title: "Oops...",
+        text: "This course is already lised",
+      });
     } else {
       selectedCourse.forEach((item) => {
         credit = credit + item.course_credit;
@@ -25,7 +30,7 @@ const Courses = () => {
 
       const totalRemaing = 20 - credit;
       if (credit > 20) {
-        return alert("Credit Limit exceeded");
+        return Swal.fire("The credit limit exceeded");
       }
       setSelectedCourse([...selectedCourse, course]);
       setTotalCredit(credit);

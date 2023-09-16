@@ -5,14 +5,17 @@ const Enrollments = ({
   remaningHour,
 }) => {
   console.log("achi");
-
+  let remain = 20;
+  if (remaningHour) {
+    remain = remaningHour;
+  }
   let count = 1;
   return (
     <div>
       <div className="w-72 bg-base-100 shadow-xl mt-6 ">
         <div className="pl-6">
           <h1 className="font-bold  text-blue-600 text-lg border-b-2">
-            Credit Hour Remaining {remaningHour} hr
+            Credit Hour Remaining {remain} hr
           </h1>
           <div className="border-b-2">
             <h1 className="font-bold text-xl">Course Name</h1>
