@@ -5,7 +5,7 @@
     "course_credit": 1,
     "course_id": "1",
     "price": 99,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of C programming. This course is designed for beginners who want to learn the basics of programming and gain a strong foundation in the C language."
   },
   {
     "image": "/src/assets/images/Rectangle 2-3.png",
@@ -13,7 +13,7 @@
     "course_credit": 2,
     "course_id": "2",
     "price": 149,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of Algorithm. This course is designed for beginners who want to learn the basics of Algorithm and gain a strong foundation in the Algorithm."
   },
   {
     "image": "/src/assets/images/Rectangle 2-4.png",
@@ -21,7 +21,7 @@
     "course_credit": 10,
     "course_id": "3",
     "price": 79,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of C++ programming. This course is designed for beginners who want to learn the basics of programming and gain a strong foundation in the C++ language."
   },
   {
     "image": "/src/assets/images/Rectangle 3.png",
@@ -29,7 +29,7 @@
     "course_credit": 5,
     "course_id": "4",
     "price": 69,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of Data Structures. This course is designed for beginners who want to learn the basics of Data Structures and gain a strong foundation in the basic Data Structures."
   },
   {
     "image": "/src/assets/images/Rectangle 2.png",
@@ -37,7 +37,7 @@
     "course_credit": 5,
     "course_id": "5",
     "price": 119,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of OOP in Python. This course is designed for beginners who want to learn OOP and gain a strong foundation in the basic Python."
   },
   {
     "image": "/src/assets/images/Rectangle 2-5.png",
@@ -45,7 +45,7 @@
     "course_credit": 2,
     "course_id": 6,
     "price": 89,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of Software Engineering. This course is designed for beginners who want to learn the basics of Software Engineering and gain a strong foundation in the field"
   },
   {
     "image": "/src/assets/images/Rectangle 3-1.png",
@@ -53,7 +53,7 @@
     "course_credit": 5,
     "course_id": "7",
     "price": 129,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of AWS. This course is designed for beginners who want to learn the basics of Cloud Computing and gain a strong foundation in the basic AWS"
   },
   {
     "image": "/src/assets/images/Rectangle 2-1.png",
@@ -61,7 +61,7 @@
     "course_credit": 5,
     "course_id": "8",
     "price": 159,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of Database. This course is designed for beginners who want to learn the basics of Database and gain a strong foundation in the basic Database."
   },
   {
     "image": "/src/assets/images/Rectangle 2-6.png",
@@ -69,6 +69,6 @@
     "course_credit": 2,
     "course_id": "9",
     "price": 79,
-    "course_details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    "course_details": "Get started with the fundamentals of Problem Solving. This course is designed for beginners who want to learn the basics of Problem Solving and gain a strong foundation in the basic Problem solving."
   }
 ]
