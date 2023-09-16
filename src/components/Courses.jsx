@@ -5,10 +5,33 @@ import Enrollments from "./Enrollments";
 const Courses = () => {
   const [courseList, setCourseList] = useState([]);
   const [selectedCourse, setSelectedCourse] = useState([]);
+  const [totalCredit, setTotalCredit] = useState(0);
+  const [totalPrice, setTotalPrice] = useState(0);
+  const [remaningHour, setRemaninghour] = useState(0);
 
   const handleSelectedCourse = (course) => {
-    setSelectedCourse([...selectedCourse, course]);
-    console.log(selectedCourse);
+    const isExist = selectedCourse.find(
+      (item) => item.course_id == course.course_id
+    );
+    let credit = course.course_credit;
+    let price = course.price;
+    if (isExist) {
+      return alert("already added");
+    } else {
+      selectedCourse.forEach((item) => {
+        credit = credit + item.course_credit;
+        price += item.price;
+      });
+
+      const totalRemaing = 20 - credit;
+      if (credit > 20) {
+        return alert("Credit Limit exceeded");
+      }
+      setSelectedCourse([...selectedCourse, course]);
+      setTotalCredit(credit);
+      setTotalPrice(price);
+      setRemaninghour(totalRemaing);
+    }
   };
 
   useEffect(() => {
@@ -60,7 +83,12 @@ const Courses = () => {
         </div>
       </div>
       <div className="w-1/3">
-        <Enrollments selectedCourse={selectedCourse} />
+        <Enrollments
+          selectedCourse={selectedCourse}
+          totalCredit={totalCredit}
+          totalPrice={totalPrice}
+          remaningHour={remaningHour}
+        />
       </div>
     </div>
   );
